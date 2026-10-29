@@ -1,0 +1,10 @@
+layer_1,layer_2,count,mean,median,std,min,max
+L1_scientific_engagement,L1_scientific_engagement,57563,0.9103,0.9102,0.0138,0.851,0.9878
+L1_scientific_engagement,L2_safety_risk,16802,0.9077,0.9076,0.0139,0.8566,0.9782
+L1_scientific_engagement,L3_comparative_critical,16866,0.905,0.9049,0.0138,0.8405,0.9668
+L2_safety_risk,L1_scientific_engagement,16532,0.9075,0.9075,0.0139,0.8503,0.9772
+L2_safety_risk,L2_safety_risk,21064,0.906,0.9058,0.0143,0.8459,0.9782
+L2_safety_risk,L3_comparative_critical,16844,0.9029,0.9029,0.0141,0.8504,0.967
+L3_comparative_critical,L1_scientific_engagement,16467,0.9049,0.9048,0.0139,0.8399,0.9596
+L3_comparative_critical,L2_safety_risk,16489,0.903,0.9029,0.014,0.8421,0.9663
+L3_comparative_critical,L3_comparative_critical,21373,0.9025,0.9024,0.0145,0.8362,0.9741
